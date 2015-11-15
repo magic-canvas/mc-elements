@@ -1,0 +1,29 @@
+{
+  "name": "mc-elements",
+  "version": "0.1.0",
+  "homepage": "https://github.com/magic-canvas/mc-elements",
+  "authors": [
+    "Ahmed Masud <ahmed.masud@trustifier.com>"
+  ],
+  "description": "magic-canvas mc-elements element",
+  "main": "mc-elements.html",
+  "moduleType": [],
+  "keywords": [
+    "magic-canvas",
+    "mc-elements",
+    "webcomponents",
+    "trustifier",
+    "tux"
+  ],
+  "dependencies": {
+      "magic-canvas": "magic-canvas/magic-canvas#develop"
+  },
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
